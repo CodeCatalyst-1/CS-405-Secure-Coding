@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\chapm\source\repos\CS-405 Module 4 Activity\CS-405 Module 4 Activity\test.cpp(196,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+C:\Users\chapm\source\repos\CS-405 Module 4 Activity\CS-405 Module 4 Activity\test.cpp(210,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+  CS-405 Module 4 Activity.vcxproj -> C:\Users\chapm\source\repos\CS-405 Module 4 Activity\x64\Debug\CS-405 Module 4 Activity.exe
